@@ -1,5 +1,9 @@
 # Netflix Supervised Learning Project
 
+Name: Abhishek Goud Talla  
+Matriculation Number: 38450034  
+Course: MSc Data Science  
+
 ## Project Overview
 
 This project applies supervised machine learning techniques on the
